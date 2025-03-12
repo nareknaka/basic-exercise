@@ -1,4 +1,4 @@
-name: Deplloyment 
+name: Deplloyment 2
 on: push 
 jobs:
   lint:
